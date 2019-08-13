@@ -1,0 +1,2 @@
+# pgscriptrun
+Run pg script
